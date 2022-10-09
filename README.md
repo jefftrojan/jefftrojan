@@ -1,17 +1,22 @@
-### Hi there 👋
+### Halt, who goes there!👋
 
-<!--
-**jefftrojan/jefftrojan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefftrojan)]
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ... Golang | Python | Devops | AI and ML
+- 👯 I’m looking to collaborate on ... Any project I can fit in
+- 🤔 I’m looking for help with ... 🤔
+- 💬 Ask me about ... My code life and personal life
+- 📫 How to reach me: ... 
+- 😄 Pronouns: ... He/Him/
+- ⚡ Fun fact: ... Loves Humor
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefftrojan&show_icons=true&theme=camo&count_private=true&hide=stars" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trojan0x&layout=compact&langs_count=8&theme=camo" />
+</a>
