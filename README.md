@@ -3,9 +3,9 @@
 
 <big><pre>
 &#62; ./send_me_an_email
-[brennan@bdov.dev](mailto:j.dauda@alustudent.com)
+[j.dauda@alustudent.com](mailto:j.dauda@alustudent.com)
 &#62; ./connect_on_linkedin
-[linkedin.com/in/bdbaraban](https://linkedin.com/in/jefftrojan)
+[linkedin.com/in/jeffdauda](https://linkedin.com/in/jeffdauda)
 </pre></big>
 
 
