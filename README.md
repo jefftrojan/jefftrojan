@@ -1,17 +1,12 @@
-### Halt, who goes there!👋
+## Halt, who goes there!👋
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Python | Golang | ML And DevOps
-- 👯 I’m looking to collaborate on ... Any project I can fit in
-- 🤔 I’m looking for help with ... 🤔
-- 💬 Ask me about ... My code life and personal life
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ... He/Him/
-- ⚡ Fun fact: ... Loves Humor
+<big><pre>
+&#62; ./send_me_an_email
+[brennan@bdov.dev](mailto:j.dauda@alustudent.com)
+&#62; ./connect_on_linkedin
+[linkedin.com/in/bdbaraban](https://linkedin.com/in/jefftrojan)
+</pre></big>
 
 
 <a href="https://jefftrojan.github.io">
