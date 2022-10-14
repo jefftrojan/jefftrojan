@@ -1,5 +1,5 @@
-## Halt, who goes there!👋
-
+## Hello world! I'm Jeff, a freshman at the African Leadership University
+</br>
 
 <big><pre>
 &#62; ./send_me_an_email
@@ -7,6 +7,8 @@
 &#62; ./connect_on_linkedin
 [linkedin.com/in/jeffdauda](https://linkedin.com/in/jeffdauda)
 </pre></big>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jefftrojan&label=Profile%20views&color=0e75b6&style=flat" alt="Jeff" /> </p>
+
 
 
 <a href="https://jefftrojan.github.io">
