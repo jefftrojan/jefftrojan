@@ -1,4 +1,4 @@
-## Hello world! I'm Jeff, a freshman at the African Leadership University
+## Hello world!
 </br>
 
 <big><pre>
