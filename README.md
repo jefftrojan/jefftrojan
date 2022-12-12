@@ -8,7 +8,7 @@
 [linkedin.com/in/jeffdauda](https://linkedin.com/in/jeffdauda)
 </pre></big>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jefftrojan&label=Profile%20views&color=0e75b6&style=flat" alt="Jeff" /> </p>
-
+<img src="https://giphy.com/gifs/hacker-hack-hacking-4OAxDXv4RdUeg38JYi" />
 
 
 <a href="https://jefftrojan.github.io">
