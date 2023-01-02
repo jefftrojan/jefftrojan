@@ -1,7 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
-![](https://github.com/jefftrojan/jefftrojan/github-readme-gif.gif)
 </br>
-
+[![](https://github.com/jefftrojan/jefftrojan/blob/main/github-readme-gif.gif)]
 <big><pre>
 &#62; ./send_me_an_email
 [j.dauda@alustudent.com](mailto:j.dauda@alustudent.com)
