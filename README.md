@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)![](https://github.com/jefftrojan/jefftrojan/github-readme-gif.gif)
 </br>
 ![](https://github.com/jefftrojan/jefftrojan/github-readme-gif.gif)
 
