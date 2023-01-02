@@ -14,5 +14,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefftrojan&show_icons=true&theme=dark&count_private=true&hide=stars" />
 </a>
 <a href="https://github.com/jefftrojan.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trojan0x&layout=compact&langs_count=8&hide=css,powershell,html&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trojan0x&langs_count=8&hide=css,powershell,html&theme=dark" />
 </a>
