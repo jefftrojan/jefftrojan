@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
 </br>
-[<img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='github' height='40'>](https://github.com/jefftrojan)
+[<img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='Alt what'>]()
 <big><pre>
 &#62; ./send_me_an_email
 [j.dauda@alustudent.com](mailto:j.dauda@alustudent.com)
