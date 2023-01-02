@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
 </br>
-![](github-readme-gif.gif)
+![](https://github.com/jefftrojan/jefftrojan/github-readme-gif.gif)
 
 <big><pre>
 &#62; ./send_me_an_email
