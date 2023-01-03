@@ -16,9 +16,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefftrojan&show_icons=true&theme=blue-green&count_private=true&hide=stars" />
 </a>
 ### - I'm Jeff, a freshman at the African Leadership University...
-<div style="img{border-radius:50%}">
+
 <img hight="400" width="330" alt="GIF" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
-</div>
+  
 ### - Currently Learning
 - Data Structures & Algorithms
 - Python
