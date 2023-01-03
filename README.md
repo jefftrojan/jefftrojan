@@ -13,7 +13,7 @@
 </pre></big>
 <br>
 <a href="https://jefftrojan.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefftrojan&show_icons=true&theme=dark&count_private=true&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefftrojan&show_icons=true&theme=blue-green&count_private=true&hide=stars" />
 </a>
 ### - I'm Jeff, a freshman at the African Leadership University...
 
