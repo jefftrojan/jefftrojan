@@ -17,7 +17,7 @@
 </a>
 ### - I'm Jeff, a freshman at the African Leadership University...
 
-<img hight="400" width="330" alt="GIF" radius="120" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
+<img hight="400" width="330" alt="GIF" border-radius="50" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
 
 ### - Currently Learning
 - Data Structures & Algorithms
