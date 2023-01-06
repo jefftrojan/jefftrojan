@@ -29,6 +29,7 @@
 
 ### - Hobbies
 - Video/Photo editing
+- T shirt designing
 - Watching Anime
 - Photography
 - Skateboarding
