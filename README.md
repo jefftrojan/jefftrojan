@@ -11,7 +11,7 @@
 &#62; ./connect_on_linkedin
 [linkedin.com/in/jeffdauda](https://linkedin.com/in/jeffdauda)
 &#62; ./visit_my_website
-[personal_website](https://jefftrojan.github.io)
+[personal_website](https://dauda.studio)
 </pre></big>
 <br>
 <a href="https://jefftrojan.github.io">
