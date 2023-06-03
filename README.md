@@ -25,12 +25,11 @@
 ### - Currently Learning
 - Data Structures & Algorithms
 - Python
-- Golang
+- Go
 - Javascript
+- Dart
 
 ### - Hobbies
-- Video/Photo editing
-- T shirt designing
 - Watching Anime
 - Photography
 - Skateboarding
