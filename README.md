@@ -11,27 +11,28 @@
 &#62; ./connect_on_linkedin
 [linkedin.com/in/jeffdauda](https://linkedin.com/in/jeffdauda)
 &#62; ./visit_my_website
-[personal_website](https://dauda.studio)
+[personal_website](https://dauda.tech)
 </pre></big>
 <br>
 <a href="https://jefftrojan.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefftrojan&show_icons=true&theme=blue-green&count_private=true&hide=stars" />
 </a>
 [![wakatime](https://wakatime.com/badge/user/aa5da215-37c0-48c1-b96f-fca8bd619595.svg)](https://wakatime.com/@aa5da215-37c0-48c1-b96f-fca8bd619595)
-### - I'm Jeffrey, a sophomore at the African Leadership University...
+### - I'm Jeffrey, a senior at the African Leadership University...
 
-<img hight="400" width="330" alt="GIF" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
+<img hight="300" width="330" alt="GIF" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
   
 ### - Currently Learning
 - Data Structures & Algorithms
-- Python
-- Go
-- Javascript
+- Python/Machine Learning
+- Ethical Hacking and Networks
+- Go/Distributed systems
 - Dart
+- Swift
 
 ### - Hobbies
 - Watching Anime
-- Photography
+- Cooking
 - Skateboarding
 
 </br>
