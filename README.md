@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
 </br>
-<img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='Alt what' height='620' width='580'>
+<img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='Alt what' height='400' width='400'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jefftrojan&label=Profile%20views&color=0e75b6&style=flat" hight="320" width="300" alt="Jeff" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jefftrojan&label=Profile%20views&color=0e75b6&style=flat"  alt="Jeff" /> </p>
 
 ## About ME 💬 
 <big><pre>
@@ -20,7 +20,7 @@
 [![wakatime](https://wakatime.com/badge/user/aa5da215-37c0-48c1-b96f-fca8bd619595.svg)](https://wakatime.com/@aa5da215-37c0-48c1-b96f-fca8bd619595)
 ### - I'm Jeffrey, a senior at the African Leadership University...
 
-<img hight="220" width="200" alt="GIF" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
+<img width="200" alt="GIF" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
   
 ### - Currently Learning
 - Data Structures & Algorithms
