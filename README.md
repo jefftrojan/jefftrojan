@@ -2,7 +2,7 @@
 </br>
 <img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='Alt what' height='620' width='580'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jefftrojan&label=Profile%20views&color=0e75b6&style=flat" alt="Jeff" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jefftrojan&label=Profile%20views&color=0e75b6&style=flat" hight="320" width="300" alt="Jeff" /> </p>
 
 ## About ME 💬 
 <big><pre>
