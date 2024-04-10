@@ -20,7 +20,7 @@
 [![wakatime](https://wakatime.com/badge/user/aa5da215-37c0-48c1-b96f-fca8bd619595.svg)](https://wakatime.com/@aa5da215-37c0-48c1-b96f-fca8bd619595)
 ### - I'm Jeffrey, a senior at the African Leadership University...
 
-<img hight="300" width="330" alt="GIF" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
+<img hight="220" width="200" alt="GIF" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
   
 ### - Currently Learning
 - Data Structures & Algorithms
