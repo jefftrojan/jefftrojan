@@ -1,7 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wagwan!...)](https://git.io/typing-svg)
 </br>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ay%Yo%wagwan💬 )](https://git.io/typing-svg) 
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=About💬 )](https://git.io/typing-svg) 
 <big><pre>
 &#62; ./send_me_an_email
 [jeff@boolean.engineer](mailto:jeff@boolean.engineer)
