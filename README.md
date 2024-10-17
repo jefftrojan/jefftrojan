@@ -1,17 +1,17 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
 </br>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=About%Me💬 )](https://git.io/typing-svg) 
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ay%Yo%wagwan💬 )](https://git.io/typing-svg) 
 <big><pre>
 &#62; ./send_me_an_email
-[j.dauda@alustudent.com](mailto:j.dauda@alustudent.com)
+[jeff@boolean.engineer](mailto:jeff@boolean.engineer)
 &#62; ./connect_on_linkedin
 [linkedin.com/in/jeffdauda](https://linkedin.com/in/jeffdauda)
 &#62; ./visit_my_website
-[personal_website](https://dauda.tech)
+[personal_website](https://boolean.engineer)
 </pre></big>
 
-### - I'm Jeffrey, a senior at the African Leadership University...
+### - I'm Jeff, I do breaking systems, fixing bugs, and questioning reality in the process...
 
 <img width="200" alt="GIF" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
   
@@ -28,7 +28,7 @@
 - Cooking
 - Skateboarding
 <br>
-<a href="https://jefftrojan.github.io">
+<a href="https://boolean.engineer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefftrojan&show_icons=true&theme=blue-green&count_private=true&hide=stars" />
 </a>
 
